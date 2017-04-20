@@ -1,0 +1,6 @@
+# cp this to .env and replace  '{{ }}'
+HZ_DB_SERVER={{ horizon_database_server }}
+HZ_DB_USER={{ horizon_database_user }}
+HZ_DB_DATABASE={{ horizon_database_name }}
+HZ_DB_PASSWORD={{ horizon_database_password }}
+HZ_DB_PORT={{ horizon_database_port}}
